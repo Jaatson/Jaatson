@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952hbe5t4ilp0k6idxpxbtd02tb9ft8a1aq5j39zy2q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaatson&label=Profile%20views&color=0e75b6&style=flat" alt="jaatson" /> </p>
 
