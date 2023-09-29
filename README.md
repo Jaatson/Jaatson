@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+[![MasterHead](https://camo.githubusercontent.com/754dbf2e365fea5318616ed8ff17144ad564ddd1c1e04e6991fa691336aac854/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f31322f3130323339333331302d30373437386238302d336638642d313165622d383465622d3339326435353565626432392e706e673f726573697a653d31323030253243363330)]
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
